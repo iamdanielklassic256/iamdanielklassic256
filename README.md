@@ -1,4 +1,5 @@
 # Hi there, I'm Daniel! 👋
+React Js Dev, I am Software Developer, Friend, Brother, Graphic Designer, Video Editor
 
 <img align="left" width="47%" src="[https://github-readme-stats.vercel.app/api?username=ogwok&show_icons=true&theme=radical](https://avatars.githubusercontent.com/u/93254952?v=4)" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
