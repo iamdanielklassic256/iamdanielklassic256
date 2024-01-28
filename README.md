@@ -1,5 +1,5 @@
 # Hi there, I'm Daniel! 👋
-"I'm Daniel, a Software Developer specializing in React.js. I'm also a friend, brother, graphic designer, and video editor, passionate about creating engaging user experiences."
+"I'm Daniel, a FullStack Software Developer. I'm also a friend, brother, graphic designer, and video editor, passionate about creating engaging user experiences."
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=iamdanielklassic256&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdanielklassic256&layout=compact" />
@@ -22,5 +22,9 @@
   <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" style="margin-right: 5px;">
   <img src="https://img.shields.io/badge/Payment%20Gateway-%23000000.svg?style=for-the-badge" style="margin-right: 5px;">
   <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" style="margin-right: 5px;">
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" style="margin-right: 5px;">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="margin-right: 5px;">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right: 5px;">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" style="margin-right: 5px;">
 </div>
 
